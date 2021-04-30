@@ -10,5 +10,3 @@ Mi primer repositorio
 * git checkout + nombre de la rama nueva
 * git branch para ver si esta la nueva rama
 * Listo
-
-* Rama secundaria, rama master
